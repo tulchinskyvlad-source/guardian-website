@@ -1,0 +1,1 @@
+GitHub and Vercel ready starter package.
